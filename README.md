@@ -30,7 +30,7 @@ CSS. You can find the Rails benchmarks [here](https://stevelabnik/turbolinks_tes
 
 Run this command in a terminal:
 ```bash
-composer require frenzy/turbolinks
+composer require odion-cloud/turbolinks
 ```
 
 Add the Turbolinks middleware, to the `$middlewareGroups` array in `app/Http/Kernel.php`:
