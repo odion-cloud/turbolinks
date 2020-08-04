@@ -41,7 +41,7 @@ Add the following in your `composer.json`:
 
 Run this command in a terminal:
 ```bash
-composer update frenzy/turbolinks
+composer update odion-cloud/turbolinks
 ```
 
 Add `'Frenzy\Turbolinks\TurbolinksServiceProvider', ` to the `providers` array in `config/app.php`
