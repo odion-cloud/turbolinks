@@ -34,7 +34,7 @@ Add the following in your `composer.json`:
 {
     "require": {
         // ...
-        "frenzy/turbolinks": "dev-master"
+        "odion-cloud/turbolinks": "dev-master"
     }
 }
 ```
