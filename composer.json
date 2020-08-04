@@ -1,5 +1,5 @@
 {
-    "name": "frenzy/turbolinks",
+    "name": "odion-cloud/turbolinks",
     "description": "Frenzy Turbolinks makes following links in your web application faster with Laravel 5",
     "keywords": [
         "laravel", "laravel 5", "turbolinks", "turbolinks 5",
@@ -17,7 +17,6 @@
         }
     ],
     "require": {
-         "php": ">=7.0",
         "symfony/http-foundation": "^5.0",
         "barryvdh/laravel-stack-middleware": "~1.2.1",
         "helthe/turbolinks": "3.0.0"
@@ -38,5 +37,5 @@
         "preferred-install": "dist"
     },
     "prefer-stable": true,
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
